@@ -1,2 +1,2 @@
 # SPM-lab
-SPm
+Spm lab
